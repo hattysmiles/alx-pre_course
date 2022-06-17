@@ -1,1 +1,1 @@
-Beebar is cool
+.gitignore
